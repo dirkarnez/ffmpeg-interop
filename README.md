@@ -5,3 +5,4 @@ FFmpeg Interop
 - https://github.com/Ruslan-B/FFmpeg.AutoGen
 - http://dranger.com/ffmpeg/
 - https://github.com/ffmpeginteropx/FFmpegInteropX
+- https://github.com/BtbN/FFmpeg-Builds

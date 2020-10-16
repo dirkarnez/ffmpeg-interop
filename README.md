@@ -1,5 +1,9 @@
 FFmpeg Interop
 ==============
+
+### Prerequisites
+- [FFmpeg Windows Builds - gyan.dev](https://www.gyan.dev/ffmpeg/builds/)
+
 ### Reference
 - https://github.com/microsoft/FFmpegInterop
 - https://github.com/Ruslan-B/FFmpeg.AutoGen
@@ -10,3 +14,5 @@ FFmpeg Interop
 - **https://github.com/StevenWang001/ffmpeg-demo/blob/master/test.cpp**
 - **https://github.com/xbmc/inputstream.ffmpegdirect**
 - **https://github.com/sailfish009/sample_decode**
+- **https://ffmpeg.org/doxygen/trunk/muxing_8c-source.html**
+- **https://stackoverflow.com/questions/16768794/muxing-from-audio-and-video-files-with-ffmpeg**

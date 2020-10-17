@@ -68,6 +68,7 @@ extern "C"
 
 int main()
 {
+    // ffmpeg -i "%url%" -c copy -bsf:a aac_adtstoasc "%filename%"
     const char* url = "https://nowcom-vodstream-hk.viu.com/getnowmediahls/Pt8O2wtbV5MVtw0a_UzNwQ/1602875834/NNEW00303517/sd/index.m3u8";
     cout << "Hello FFmpeg!" << endl;
 

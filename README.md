@@ -5,6 +5,7 @@ FFmpeg Interop
 - [FFmpeg Windows Builds - gyan.dev](https://www.gyan.dev/ffmpeg/builds/)
 
 ### Reference
+- [首页 - Parsevideo.com](https://www.parsevideo.com/blog)
 - [qq727791967/ParseVideo: 基于ffmpeg的视频解析器](https://github.com/qq727791967/ParseVideo)
 - https://github.com/microsoft/FFmpegInterop
 - https://github.com/Ruslan-B/FFmpeg.AutoGen
